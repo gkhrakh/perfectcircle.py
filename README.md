@@ -1,4 +1,4 @@
-# perfectcircle.py
+# Идеальный круг на Neal Fun
 Perfect circle 99.5%
 Нарисовать идеальный круг на платформе [neal.fun](https://neal.fun) с точностью на 99.5%
 
